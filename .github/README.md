@@ -1,7 +1,5 @@
 # ScreenCycle
 
-Created by **Luka LAURENT**.
-
 Turns a Windows 11 PC into a display screen: apps, documents, existing windows and websites take turns
 on screen, each for the time you choose. Lives in the system tray.
 
